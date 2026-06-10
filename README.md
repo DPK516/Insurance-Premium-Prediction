@@ -1,0 +1,1 @@
+Insurance Premium Prediction is a machine learning project that analyzes customer information and predicts the most suitable insurance premium category—Low, Medium, or High. The model is trained on historical insurance data and deployed through an interactive application, enabling quick and accurate premium classification for users and insurers.
